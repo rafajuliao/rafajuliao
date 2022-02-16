@@ -6,10 +6,6 @@ Always aiming to the scalable software and to grow professionally in the technol
 <div align="center">
   <a href="https://www.linkedin.com/in/rafaeljuliao/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafajuliao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
-    
-    
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 ## Technologies
 
