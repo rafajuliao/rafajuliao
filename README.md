@@ -3,9 +3,9 @@
 I am passionate programmer. Currently focused on Frontend Development.
 
 Always aiming to the scalable software and to grow professionally in the technology field.
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/rafaeljuliao/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafajuliao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafajuliao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
   
 ## Technologies
 
