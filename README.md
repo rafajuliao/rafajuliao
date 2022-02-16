@@ -5,7 +5,8 @@ I am passionate programmer. Currently focused on Frontend Development.
 Always aiming to the scalable software and to grow professionally in the technology field.
 <div>
   <a href="https://www.linkedin.com/in/rafaeljuliao/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafajuliao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafajuliao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafajuliao&layout=compact&langs_count=7&theme=dark"/>
+</div>  
   
 ## Technologies
 
@@ -20,10 +21,8 @@ Always aiming to the scalable software and to grow professionally in the technol
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
   
 ## Projects
-  
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=rafajuliao&repo=hotel_santos&bg_color=45,02aab0,00cdac&icon_color=fff&border_color=00cdac&title_color=fff&text_color=fff)](https://github.com/rafajuliao/Hotel_Santos)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rafajuliao&repo=hotel_santos&bg_color=45,7026B9,964ddd&icon_color=fff&border_color=964ddd&title_color=fff&text_color=fff)](https://github.com/rafajuliao/Hotel_Santos/)
-    
+[![](https://github-readme-stats.vercel.app/api/pin/?username=rafajuliao&repo=hotel_santos&bg_color=45,7026B9,964ddd&icon_color=fff&border_color=964ddd&title_color=fff&text_color=fff)](https://github.com/rafajuliao/Hotel_Santos/) [![](https://github-readme-stats.vercel.app/api/pin/?username=rafajuliao&repo=hotel_santos&bg_color=45,02aab0,00cdac&icon_color=fff&border_color=3fca5&title_color=fff&text_color=fff)](https://github.com/rafajuliao/Hotel_Santos/)  
+
 ## Let's keep in touch!
   <div> 
   <a href="https://www.linkedin.com/in/rafaeljuliao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
