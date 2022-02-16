@@ -28,7 +28,6 @@ Always aiming to the scalable software and to grow professionally in the technol
 ## Projects
   
   [![](https://github-readme-stats.vercel.app/api/pin/?username=rafajuliao&repo=hotel_santos&bg_color=45,02aab0,00cdac&icon_color=fff&border_color=00cdac&title_color=fff&text_color=fff)](https://github.com/cobiwave/simplefolio/)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cobiwave&repo=gatsby-simplefolio&bg_color=45,7026B9,964ddd&icon_color=fff&border_color=964ddd&title_color=fff&text_color=fff)](https://github.com/cobiwave/simplefolio/)
 
 ## Let's keep in touch!
   <div> 
@@ -36,7 +35,5 @@ Always aiming to the scalable software and to grow professionally in the technol
   <a href = "mailto:jrafaeljuliao@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafajuliao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
- 
-  ![Snake animation](https://github.com/rafajuliao/rafajuliao/blob/output/github-contribution-grid-snake.svg)
  
 </div>
